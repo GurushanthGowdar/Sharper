@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/POC-Website/static/css/main.ce3406e1.css",
-    "main.js": "/POC-Website/static/js/main.81e21292.js",
-    "static/media/MB_Logo.png": "/POC-Website/static/media/MB_Logo.2b4b6176db96bb184f64.png",
-    "static/media/Hero_image.png": "/POC-Website/static/media/Hero_image.7613e1b5638f4018dd17.png",
-    "index.html": "/POC-Website/index.html",
-    "main.ce3406e1.css.map": "/POC-Website/static/css/main.ce3406e1.css.map",
-    "main.81e21292.js.map": "/POC-Website/static/js/main.81e21292.js.map"
+    "main.css": "/Sharper/static/css/main.ce3406e1.css",
+    "main.js": "/Sharper/static/js/main.cf79a727.js",
+    "static/media/MB_Logo.png": "/Sharper/static/media/MB_Logo.2b4b6176db96bb184f64.png",
+    "static/media/Hero_image.png": "/Sharper/static/media/Hero_image.7613e1b5638f4018dd17.png",
+    "index.html": "/Sharper/index.html",
+    "main.ce3406e1.css.map": "/Sharper/static/css/main.ce3406e1.css.map",
+    "main.cf79a727.js.map": "/Sharper/static/js/main.cf79a727.js.map"
   },
   "entrypoints": [
     "static/css/main.ce3406e1.css",
-    "static/js/main.81e21292.js"
+    "static/js/main.cf79a727.js"
   ]
 }
