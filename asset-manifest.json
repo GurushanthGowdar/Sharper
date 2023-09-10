@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Sharper/static/css/main.ce3406e1.css",
-    "main.js": "/Sharper/static/js/main.3d95b8ce.js",
+    "main.css": "/Sharper/static/css/main.dd2599c6.css",
+    "main.js": "/Sharper/static/js/main.74501524.js",
+    "static/media/ValuesBackgroundImage.png": "/Sharper/static/media/ValuesBackgroundImage.aa892fe385b9ed3a643d.png",
     "static/media/MB_Logo.png": "/Sharper/static/media/MB_Logo.2b4b6176db96bb184f64.png",
     "static/media/Hero_image.png": "/Sharper/static/media/Hero_image.7613e1b5638f4018dd17.png",
     "index.html": "/Sharper/index.html",
-    "main.ce3406e1.css.map": "/Sharper/static/css/main.ce3406e1.css.map",
-    "main.3d95b8ce.js.map": "/Sharper/static/js/main.3d95b8ce.js.map"
+    "main.dd2599c6.css.map": "/Sharper/static/css/main.dd2599c6.css.map",
+    "main.74501524.js.map": "/Sharper/static/js/main.74501524.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce3406e1.css",
-    "static/js/main.3d95b8ce.js"
+    "static/css/main.dd2599c6.css",
+    "static/js/main.74501524.js"
   ]
 }
